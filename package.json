@@ -4,6 +4,10 @@
   "description": "Coding challenge: /mom",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobwalsh/flockcode1.git"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
